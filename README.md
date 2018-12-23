@@ -19,4 +19,4 @@
 
 初學者 / 1.更容易踏入這個領域<br />2.更容易辨識色彩的異樣性
                                                  
-![image](0524055/chart/目標表.jpg)
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%9B%AE%E6%A8%99%E8%A1%A8.jpg)
