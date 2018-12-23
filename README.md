@@ -20,7 +20,7 @@
 初學者 / 1.更容易踏入這個領域<br />2.更容易辨識色彩的異樣性
                                                  
 ![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%9B%AE%E6%A8%99%E8%A1%A8.jpg)
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E4%BA%8B%E4%BB%B6%E8%A1%A8.jpg)
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.jpg)
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.jpg)
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
