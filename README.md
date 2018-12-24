@@ -39,7 +39,3 @@
 <br />系統活動圖
 
 ![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
-
-<br />系統循序圖
-
-![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%B3%BB%E7%B5%B1%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
