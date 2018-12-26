@@ -39,3 +39,17 @@
 <br />系統活動圖
 
 ![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
+
+<br />類別圖
+
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E9%A1%9E%E5%88%A5%E5%9C%96.PNG)
+
+<br />循序圖
+
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%B3%BB%E7%B5%B1%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E7%B3%BB%E7%B5%B1%E5%BE%AA%E5%BA%8F%E5%9C%961.jpg)
+
+<br />單元測試計畫
+
+![image](https://github.com/yw01100529/0524055/blob/master/chart/%E5%96%AE%E5%85%83%E6%B8%AC%E8%A9%A6%E8%A8%88%E7%95%AB.jpg)
